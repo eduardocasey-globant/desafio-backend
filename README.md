@@ -7,7 +7,7 @@
 3. Publicar solución a través de socket.io.
 4. Plantear una solución que contenga pruebas.
 5. Utilizar ecosistema Node.js
-6. Crear un PR a este repo con la resolución.
+6. Mandar el link al repo en github con la resolución por mail y __no crear__ un PR a este repo.
 
 ## Pedido del cliente
 Mengenlehreuhr Inc. creadores del reloj [Berlin Clock](https://en.wikipedia.org/wiki/Mengenlehreuhr) necesita brindar los siguientes servicios:
